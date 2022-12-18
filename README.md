@@ -1,5 +1,4 @@
-# pyspark
-Functional Programming
+#  Lab Functional Programming (Lambda Functions)
 
 
 <a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/FunctionProgramming/blob/main/Functional%20Programming.ipynb">
